@@ -1,0 +1,26 @@
+@media only screen and (max-width: 758px)
+{
+    .btn-outline-succes, .btn-outline-info 
+    {margin-top: 10px;
+     margin-left: 0 !important;                 }
+}
+
+body
+{
+  padding-top: 7rem;
+  background: url('BLACK BODY.jpg');
+}
+
+
+
+@font-face 
+{ 
+  font-family: 'Narto'; 
+  src: url('fonts/njnaruto.ttf');
+}
+ 
+h1
+{
+  font-family: 'Narto';
+}
+
